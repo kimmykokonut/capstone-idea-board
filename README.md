@@ -10,6 +10,8 @@
 * markdown
 * git
 
+![Diagram of ideas](idea-board.drawio.svg)
+
 ### Setup/Installation
 
 To look at the files on your local computer:
